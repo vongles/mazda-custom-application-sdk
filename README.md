@@ -1,3 +1,24 @@
+# Gonna See what I can do.
+
+
+
+
+
+
+
+
+
+Is anyone doing development on this platform (I guess, 2015-2019 Mazdas, probably more?)
+
+I'd like to contribute, or take over, or something. I need apps on my car, man. (Actually more about CANBUS Hackery but, you know, same diff).
+
+
+
+
+
+
+
+
 # Custom Applications SDK for Mazda Connect Infotainment System
 
 A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.
